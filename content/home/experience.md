@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Birmingham Fellow | IIASA-NERC Research Fellow"
+  company = "University of Birmingham"
+  location = "Birmingham, UK"
+  date_start = "2020-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Leading the IIASA-NERC funded project *A complex-systems approach to improve understanding of the biodiversity-landscape structure relationship*
+  """
+[[experience]]
+  title = "Research Fellow in Spatial Modelling"
+  company = "University of Southampton"
+  company_url = ""
+  location = "Southampton, UK"
+  date_start = "2016-11-01"
+  date_end = "2020-05-31"
+  description = """
+  Working on the ERC funded project *SCALEFORES: Developing a science of scale for ecosystem services*
   
-  * Analysing
-  * Modelling
-  * Deploying
+  PI: Felix Eigenbrod
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Postdoctoral Research Associate"
+  company = "Stony Brook University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Stony Brook, NY, USA"
+  date_start = "2015-04-01"
+  date_end = "2016-10-31"
+  description = """
+  Working on the NASA funded project *Combining time-series data, ecology and physiology to predict the consequences of climate change on hummingbird diversity*
+  
+  PI: Catherine Graham
+"""
 
 +++
