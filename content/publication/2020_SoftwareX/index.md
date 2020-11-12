@@ -54,9 +54,9 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://reader.elsevier.com/reader/sd/pii/S235271102030337X?token=99628F522EA44BEB136BD3A028468EB4573F612837C3D1DE097F1DDE42D6AA8848AC8F94D9A277B4F3E85E60D69D440F"
 url_preprint = ""
-url_code = ""
+url_code = "https://docs.ropensci.org/photosearcher/"
 url_dataset = ""
 url_project = ""
 url_slides = ""
